@@ -1,0 +1,970 @@
+/*página 1*/
+body{
+    background-color: #241E20;
+}
+.altura{
+    height: 100px;
+    background-color: #59595B;
+}
+.logo{
+    height: 60px;
+    width: 30%;
+    margin: 20px 10% 10px 2%;
+    background-color: #F16625;
+}
+.boton{
+    height: 40px;
+    width: 15%;
+    margin: 30px 1% 30px 1%;
+    background-color: #E5E7E9;
+    vertical-align: top;
+}
+.enviar{
+    height: 40px;
+    width: 20%;
+    margin: 30px 1% 30px 1%;
+    background-color: #E6A231;
+    vertical-align: top;
+}
+.altura2{
+    height: 145vh;
+    background-color: #414143;
+}
+.caja{
+    height: 30vh;
+    width: 40%;
+    background-color: #F36522;
+    margin-top: 8vh;
+    margin-left: 5%;
+}
+.titulo{
+    font-size: 3vw;
+    color: #E7E7E9;
+    margin-left: 5%;
+}
+.parrafo{
+    font-size: 2vw;
+    color: #5B5B5D;
+    margin-left: 5%;
+}
+.caja1{
+    height: 30vh;
+    width: 23%;
+    background-color: #E8A137;
+    margin-top: 5vh;
+    margin-left: 5%;
+}
+.barra{
+    height: 100%;
+    width: 20%;
+    margin-right: 3%;
+    background-color: #6C6E72;
+    float: right;
+}
+.subtitulo{
+    color: #939599;
+    margin: 5%;
+    margin-top: 15%;
+    font-size: 3vw;
+}
+.texto{
+    color: #575A59;
+    margin: 5%;
+    font-size: 1vw;
+}
+.contenido{
+    float: left;
+}
+/*Página 2*/
+.altura3{
+    background-color: #59595B;
+    height: 50vh;
+}
+.caja2{
+    height: 30vh;
+    width: 15%;
+    background-color: #E8A137;
+    margin-top: 10vh;
+    margin-left: 5%;
+}
+.titulo1{
+    font-size: 3vw;
+    color: #E7E7E9;
+    margin-left: 5%;
+    margin-top: 3vw;
+}
+.parrafo1{
+    font-size: 2vw;
+    color: #706F72;
+    margin-left: 5%;
+}
+.caja3{
+    height: 25vw;
+    width: 80%;
+    background-color: #414143;
+    margin: 2%;
+    margin-top: 5%;
+}
+.parrafo2{
+    font-size: 2vw;
+    color: #70707070;
+    margin-left: 2%;
+}
+.espaciado{
+    float: left;
+    padding: 1%;
+}
+.caja4{
+    height: 7vw;
+    width: 60%;
+    margin: 5%;
+    background-color: #59595B;
+    margin: auto;
+}
+.texto2{
+    color: #444243;
+    margin: 5%;
+    font-size: 1vw;
+}
+.altura4{
+    height: 56vw;
+    background-color: #434043;
+}
+.caja5{
+    height: 6vw;
+    width: 23%;
+    margin: 5%;
+    margin-top: 18%;
+    background-color: #C41F3E;
+    float: left;
+}
+.texto3{
+    color: #555557;
+    font-size: 1vw;
+    margin-bottom: 15%;
+    float: right;
+}
+.subtitulo1{
+    color: #949697;
+    font-size: 1.5vw;
+    margin-top: 15%;
+    float: right;
+}
+.caja6{
+    height: 6vw;
+    width: 23%;
+    margin: 5%;
+    margin-top: 28%;
+    background-color: #EC1C25;
+    float: left;
+}
+.caja7{
+    height: 6vw;
+    width: 23%;
+    margin: 5%;
+    margin-top: 28%;
+    background-color: #CD1F29;
+    float: left;
+}
+.caja8{
+    height: 6vw;
+    width: 23%;
+    margin: 5%;
+    margin-top: 28%;
+    background-color: #F15A50;
+    float: left;
+}
+/*Página 3*/
+.altura5{
+    height: 60px;
+    background-color: #59595B;
+}
+.boton2{
+    background-color: #E6E5E8;
+    height: 40px;
+    width: 15%;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+.caja9{
+    height: 30px;
+    width: 30px;
+    background-color: #6B6B70;
+    margin: 15px 10px;
+}
+.ancho{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+}
+.caja10{
+    height: 9vw;
+    width: 22%;
+    margin: 5%;
+    margin-top: 5%;
+    background-color: #C02140;
+    float: left;
+}
+.texto4{
+    color: #5D5B5C;
+    font-size: 1.4vw;
+}
+.subtitulo2{
+    color: #929397;
+    font-size: 2vw;
+    margin-top: 7%;
+    text-align: left;
+}
+.altura6{
+    height: 70vh;
+    width: 100%;
+    background-color: #414143;
+    margin-top: 10px;
+}
+.titulo2{
+    color: #6A6E72;
+    padding: 15px;
+    padding-right: 50px;
+    font-size: 2.65vw;
+}
+.texto5{
+    color: #403B3D;
+    font-size: 2.9vh;
+    margin: 15px;
+}
+.caja11{
+    height: 80px;
+    width: 80px;
+    background-color: #414143;
+    margin: 15px;
+}
+.caja12{
+    height: 80px;
+    width: 80px;
+    background-color: #59595B;
+    margin: 15px;
+}
+.caja13{
+    height: 80px;
+    width: 80px;
+    background-color: #6E6D73;
+    margin: 15px;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+/*Página 4*/
+.titulo3{
+    color: #6E6D73;
+    font-size: 3vw;
+}
+.parrafo3{
+    color: #413F40;
+    font-size: 1.5vw;
+}
+.altura7{
+    height: 60vh;
+    width: 100%;
+    background-color: #C41F3E;
+}
+.triangulo{
+    width: 0;
+	height: 0;
+	border-top: 45px solid transparent;
+	border-left: 70px solid #EEE4E4;
+	border-bottom: 45px solid transparent;
+    margin-top: 22.5vh;
+}
+.espaciado1{
+    margin-top: 15px;
+}
+.titulo4{
+    color: #6E6D73;
+}
+.texto6{
+    color: #444144;
+    text-align: justify;
+}
+/*Página 5*/
+.altura8{
+    height: 60vh;
+    width: 100%;
+    background-color: #414143;
+    margin-top: 15px;
+}
+.altura9{
+    height: 50vh;
+    width: 45%;
+    background-color: #C41F3E;
+    margin: 25px;
+}
+.triangulo1{
+    width: 0;
+	height: 0;
+	border-top: 45px solid transparent;
+	border-left: 70px solid #E3E7E4;
+	border-bottom: 45px solid transparent;
+    margin-top: 20vh;
+}
+.titulo5{
+    color: #6C6E70;
+    margin-top: 12vh;
+}
+.texto7{
+    color: #59595B;
+    text-align: justify;
+}
+.caja14{
+    height: 170px;
+    width: 170px;
+    background-color: #F36522;
+    margin-top: 20px;
+}
+.titulo6{
+    color: #D8D3D1;
+}
+.texto8{
+    color: #403D3E;
+    text-align: justify;
+}
+.altura10{
+    height: 72vh;
+    width: 30%;
+    background-color: #414143;
+    margin-top: 20px;
+}
+.titulo7{
+    margin-top: 10px;
+    color: #98989A;
+}
+.parrafo4{
+    color: #59585B;
+}
+/*Página 6*/
+.altura11{
+    height: 90vh;
+    background-color: #2C2C2E;
+    padding: 0 30px;
+    margin-top: 25px;
+}
+.texto9{
+    color: #414043;
+    margin-top: 20px;
+    font-size: 1.3vw;
+}
+.texto10{
+    color: #414043;
+    margin-top: 20px;
+    background-color: #F4661C;
+    font-size: 1.3vw;
+}
+.altura12{
+    height: 60px;
+    background-color: #59595B;
+    margin-top: 10px;
+}
+.caja15{
+    height: 30px;
+    width: 30px;
+    background-color: #6F6F71;
+    margin: 15px 10px;
+}
+.rectangulo{
+    height: 30px;
+    width: 200px;
+    background-color: #E7E7E9;
+    margin: 15px;
+}
+.caja16{
+    height: 30px;
+    width: 30px;
+    background-color: #F3661D;
+    margin: 15px 10px;
+}
+.tamaño{
+    height: 340px;
+    width: 840px;
+    margin-top: 25px;
+}
+.caja17{
+    height: 80px;
+    width: 80px;
+    background-color: #F36522;
+    margin: auto;
+}
+.titulo8{
+    color: #D8D3D1;
+    font-size: 3vh;
+    text-align: center;
+    margin-top: 5px;
+}
+.texto11{
+    color: #403D3E;
+    text-align: justify;
+    font-size: 2vh;
+}
+.fondo{
+    background-color: #2C2C2E;
+    margin-top: 20px;
+    width: 100%;
+}
+.parrafo5{
+    color: #444346;
+    text-align: center;
+    padding: 15px;
+}
+/*Página 7*/
+.fondo1{
+    background-color: #414143;
+    height: 75vh;
+    margin: 25px;
+}
+.ancho1{
+    width: 50%;
+    height: 40px;
+    margin: auto;
+    margin-top: 33vh;
+}
+.caja18{
+    height: 225px;
+    width: 225px;
+    background-color: #E6A332;
+    margin: 25px;
+}
+.titulo9{
+    color: #6D6C72;
+    margin-top: 25px;
+}
+.parrafo6{
+    color: #423D3E;
+    text-align: justify;
+    padding-right: 20px;
+}
+.caja19{
+    height: 6vw;
+    width: 23%;
+    margin-top: 25px;
+    margin-bottom: 0;
+    background-color: #59595B;
+    float: left;
+}
+.caja20{
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+    margin-bottom: 0%;
+    background-color: #59595B;
+    float: left;
+}
+.texto12{
+    color: #555557;
+    font-size: 1vw;
+    float: right;
+}
+.subtitulo3{
+    color: #949697;
+    font-size: 1.5vw;
+    float: right;
+    margin-top: 25px;
+}
+.subtitulo4{
+    color: #949697;
+    font-size: 1.5vw;
+    float: right;
+    margin-top: 10px;
+}
+/*Página 8*/
+.espaciado3{
+    margin-top: 10px;
+}
+.titulo10{
+    color: #EC6526;
+    margin: 15px;
+    font-size: 3vh;
+}
+.texto13{
+    color: #463F44;
+    font-size: 2.9vh;
+    margin: 15px;
+    text-align: justify;
+}
+.texto14{
+    color: #463F44;
+    font-size:3.5vh;
+    margin: 25px;
+    text-align: right;
+}
+.caja20{
+    height: 120px;
+    width: 120px;
+    background-color: #414143;
+    margin: 15px;
+}
+/*Página 9*/
+.titulo11{
+    color: #EE6731;
+    font-size: 3vw;
+}
+.parrafo7{
+    color: #4A4547;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+.caja21{
+    height: 225px;
+    width: 225px;
+    background-color: #414143;
+    margin: 25px;
+}
+.caja22{
+    height: 225px;
+    width: 725px;
+    background-color: #2C2C2E;
+    margin: 25px;
+}
+.titulo12{
+    color: #F06D2F;
+    font-size: 3vh;
+    margin: 15px;
+    text-align: center;
+}
+/*Inicio de Animate*/
+/*Página 1*/
+.animacion{
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+.animacion1{
+    animation: bounceInLeft;
+    animation-duration: 1s;
+    animation-delay: 2s;
+}
+.animacion2{
+    animation: bounceInDown;
+    animation-duration: 1s;
+    animation-delay: 3s;
+}
+.animacion3{
+    animation: bounceInDown;
+    animation-duration: 1s;
+    animation-delay: 4s;
+}
+.animacion4{
+    animation: bounceInRight;
+    animation-duration: 1s;
+    animation-delay: 5s;
+}
+.animacion5{
+    animation: backInLeft;
+    animation-duration: 3s;
+    animation-delay: 6s;
+}
+.animacion6{
+    animation: backInLeft;
+    animation-duration: 2s;
+    animation-delay: 7s;
+}
+.animacion7{
+    animation: backInLeft;
+    animation-duration: 1s;
+    animation-delay: 8s;
+}
+.animacion8{
+    animation: backInLeft;
+    animation-duration: 3s;
+    animation-delay: 9s;
+}
+.animacion9{
+    animation: backInLeft;
+    animation-duration: 2s;
+    animation-delay: 10s;
+}
+.animacion10{
+    animation: backInLeft;
+    animation-duration: 1s;
+    animation-delay: 11s;
+}
+.animacion11{
+    animation: backInRight;
+    animation-duration: 6s;
+    animation-delay: 6s;
+}
+.animacion12{
+    animation: backInRight;
+    animation-duration: 5.25s;
+    animation-delay: 6.75s;
+}
+.animacion13{
+    animation: backInRight;
+    animation-duration: 4.5s;
+    animation-delay: 7.5s;
+}
+.animacion14{
+    animation: backInRight;
+    animation-duration: 3.75s;
+    animation-delay: 8.25s;
+}
+.animacion15{
+    animation: backInRight;
+    animation-duration: 3s;
+    animation-delay: 9s;
+}
+.animacion16{
+    animation: backInRight;
+    animation-duration: 2.25s;
+    animation-delay: 9.75s;
+}
+.animacion17{
+    animation: backInRight;
+    animation-duration: 1.5s;
+    animation-delay: 10.5s;
+}
+.animacion18{
+    animation: backInRight;
+    animation-duration: 0.75s;
+    animation-delay: 11.25s;
+}
+/*Página 2*/
+.animacion19{
+    animation: bounceInRight;
+    animation-duration: 1s;
+    animation-delay: 2s;
+}
+.animacion20{
+    animation: bounceInUp;
+    animation-duration: 2s;
+    animation-delay: 3s;
+}
+.animacion21{
+    animation: bounceInDown;
+    animation-duration: 2s;
+    animation-delay: 3s;
+}
+.animacion22{
+    animation: bounceInLeft;
+    animation-duration: 12s;
+    animation-delay: 5s;
+}
+.animacion23{
+    animation: bounceInRight;
+    animation-duration: 12s;
+    animation-delay: 5s;
+}
+.animacion24{
+    animation: bounceInLeft;
+    animation-duration: 9s;
+    animation-delay: 8s;
+}
+.animacion25{
+    animation: bounceInRight;
+    animation-duration: 9s;
+    animation-delay: 8s;
+}
+.animacion26{
+    animation: bounceInLeft;
+    animation-duration: 6s;
+    animation-delay: 11s;
+}
+.animacion27{
+    animation: bounceInRight;
+    animation-duration: 6s;
+    animation-delay: 11s;
+}
+.animacion28{
+    animation: bounceInLeft;
+    animation-duration: 3s;
+    animation-delay: 14s;
+}
+.animacion29{
+    animation: bounceInRight;
+    animation-duration: 3s;
+    animation-delay: 14s;
+}
+.animacion30{
+    animation: bounceInRight;
+    animation-duration: 12s;
+    animation-delay: 5s;
+}
+.animacion31{
+    animation: bounceInRight;
+    animation-duration: 11s;
+    animation-delay: 6s;
+}
+.animacion32{
+    animation: bounceInRight;
+    animation-duration: 10s;
+    animation-delay: 7s;
+}
+.animacion33{
+    animation: bounceInRight;
+    animation-duration: 9s;
+    animation-delay: 8s;
+}
+.animacion34{
+    animation: bounceInRight;
+    animation-duration: 8s;
+    animation-delay: 9s;
+}
+.animacion35{
+    animation: bounceInRight;
+    animation-duration: 7s;
+    animation-delay: 10s;
+}
+.animacion36{
+    animation: bounceInRight;
+    animation-duration: 6s;
+    animation-delay: 11s;
+}
+.animacion37{
+    animation: bounceInRight;
+    animation-duration: 5s;
+    animation-delay: 12s;
+}
+.animacion38{
+    animation: bounceInRight;
+    animation-duration: 4s;
+    animation-delay: 13s;
+}
+.animacion39{
+    animation: bounceInRight;
+    animation-duration: 3s;
+    animation-delay: 14s;
+}
+.animacion40{
+    animation: bounceInRight;
+    animation-duration: 2s;
+    animation-delay: 15s;
+}
+.animacion41{
+    animation: bounceInRight;
+    animation-duration: 1s;
+    animation-delay: 16s;
+}
+/*Página 3*/
+.animacion42{
+    animation: fadeInLeft;
+    animation-duration: 3s;
+    animation-delay: 6s;
+}
+.animacion43{
+    animation: fadeInRight;
+    animation-duration: 3s;
+    animation-delay: 6s;
+}
+.animacion44{
+    animation: fadeInRight;
+    animation-duration: 1.5s;
+    animation-delay: 7.5s;
+}
+.animacion45{
+    animation: fadeInDown;
+    animation-duration: 10s;
+    animation-delay: 9s;
+}
+.animacion46{
+    animation: fadeInBottomLeft;
+    animation-duration: 10s;
+    animation-delay: 9s;
+}
+.animacion47{
+    animation: fadeInBottomRight;
+    animation-duration: 8s;
+    animation-delay: 11s;
+}
+.animacion48{
+    animation: fadeInBottomRight;
+    animation-duration: 6s;
+    animation-delay: 13s;
+}
+.animacion49{
+    animation: fadeInBottomRight;
+    animation-duration: 4s;
+    animation-delay: 15s;
+}
+.animacion50{
+    animation: fadeInBottomRight;
+    animation-duration: 2s;
+    animation-delay: 17s;
+}
+/*Página 4*/
+/*Página 5*/
+.animacion51{
+    animation: fadeInLeft;
+    animation-duration: 2s;
+    animation-delay: 3s; 
+}
+.animacion52{
+    animation: fadeInRight;
+    animation-duration: 2s;
+    animation-delay: 3s; 
+}
+.animacion53{
+    animation: fadeInLeft;
+    animation-duration: 2s;
+    animation-delay: 5s; 
+}
+.animacion54{
+    animation: fadeInRight;
+    animation-duration: 2s;
+    animation-delay: 5s; 
+}
+.animacion55{
+    animation: fadeInLeft;
+    animation-duration: 2s;
+    animation-delay: 7s; 
+}
+.animacion56{
+    animation: fadeInRight;
+    animation-duration: 2s;
+    animation-delay: 7s; 
+}
+.animacion57{
+    animation: fadeIn;
+    animation-duration: 6s;
+    animation-delay: 3s; 
+}
+.animacion58{
+    animation: fadeIn;
+    animation-duration: 5s;
+    animation-delay: 4s; 
+}
+.animacion59{
+    animation: fadeIn;
+    animation-duration: 4s;
+    animation-delay: 5s; 
+}
+.animacion60{
+    animation: fadeIn;
+    animation-duration: 3s;
+    animation-delay: 6s; 
+}
+.animacion61{
+    animation: fadeIn;
+    animation-duration: 2s;
+    animation-delay: 7s; 
+}
+.animacion62{
+    animation: fadeIn;
+    animation-duration: 1s;
+    animation-delay: 8s; 
+}
+/*Página 6*/
+.animacion30-1{
+    animation: bounceInLeft;
+    animation-duration: 12s;
+    animation-delay: 5s;
+}
+.animacion31-1{
+    animation: bounceInLeft;
+    animation-duration: 11s;
+    animation-delay: 6s;
+}
+.animacion32-1{
+    animation: bounceInLeft;
+    animation-duration: 10s;
+    animation-delay: 7s;
+}
+.animacion33-1{
+    animation: bounceInLeft;
+    animation-duration: 9s;
+    animation-delay: 8s;
+}
+.animacion34-1{
+    animation: bounceInLeft;
+    animation-duration: 8s;
+    animation-delay: 9s;
+}
+.animacion35-1{
+    animation: bounceInLeft;
+    animation-duration: 7s;
+    animation-delay: 10s;
+}
+.animacion36-1{
+    animation: bounceInLeft;
+    animation-duration: 6s;
+    animation-delay: 11s;
+}
+.animacion37-1{
+    animation: bounceInLeft;
+    animation-duration: 5s;
+    animation-delay: 12s;
+}
+.animacion38-1{
+    animation: bounceInLeft;
+    animation-duration: 4s;
+    animation-delay: 13s;
+}
+.animacion39-1{
+    animation: bounceInLeft;
+    animation-duration: 3s;
+    animation-delay: 14s;
+}
+.animacion40-1{
+    animation: bounceInLeft;
+    animation-duration: 2s;
+    animation-delay: 15s;
+}
+.animacion41-1{
+    animation: bounceInLeft;
+    animation-duration: 1s;
+    animation-delay: 16s;
+}
+.animacion63{
+    animation: backInUp;
+    animation-duration: 8s;
+    animation-delay: 17s;
+}
+.animacion64{
+    animation: backInUp;
+    animation-duration: 6s;
+    animation-delay: 19s;
+}
+.animacion65{
+    animation: backInUp;
+    animation-duration: 4s;
+    animation-delay: 21s;
+}
+.animacion66{
+    animation: backInUp;
+    animation-duration: 2s;
+    animation-delay: 23s;
+}
+/*Página 7*/
+/*Página 8*/
+/*Página 9*/
+.animacion67{
+    animation: rotateInUpLeft;
+    animation-duration: 13s;
+    animation-delay: 3s;
+}
+.animacion68{
+    animation: rotateInUpRight;
+    animation-duration: 13s;
+    animation-delay: 3s;
+}
+.animacion69{
+    animation: rotateIn;
+    animation-duration: 8.7s;
+    animation-delay: 7.3s;
+}
+.animacion70{
+    animation: rotateIn;
+    animation-duration: 8.7s;
+    animation-delay: 7.3s;
+}
+.animacion71{
+    animation: rotateInDownLeft;
+    animation-duration: 4.4s;
+    animation-delay: 11.6s;
+}
+.animacion72{
+    animation: rotateInDownRight;
+    animation-duration: 4.4s;
+    animation-delay: 11.6s;
+}
+.animacion73{
+    animation: rollIn;
+    animation-duration: 1s;
+    animation-delay: 16s;
+}
